@@ -1,0 +1,3 @@
+py-bcrypt
+python-decouple
+simple-crypt
